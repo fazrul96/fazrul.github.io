@@ -15,39 +15,9 @@ Highly skilled and innovative web design and development professional with 4+ ye
 Describe your project briefly and highlight its key features or technologies used. You can also include a link to the project repository or live demo. 
 -->
 
-## Skills
-
-<!--
-- List your core programming languages and technologies.
-- Mention any frameworks, libraries, or tools you're proficient in.
-- Highlight any relevant certifications or courses you've completed. 
--->
-
-- Web Development
-- Programming Languages
-  - PHP
-  - Javascript
-  - VBA
-  - C#
-- Frameworks
-  - Laravel
-  - Codeigniter (CI)
-- Amazon Web Services (AWS)
-  - SQS
-  - Cloudwatch
-  - S3
-  - Lambda
-  - CodePipeline
-- DMS 
-  - MySQL
-  - MSSQL
-- Automation Testing
-  - Cypress
-  - Selenium WebDriver
-
 ## Project
 - [Web Development - Laravel Project](./pages/web-development-page.html) - Still in development
-- [University Collection - Eclipse Project](./pages/eclipse-page.html) - Still in development
+- [University Eclipse Collection - Java Project](./pages/eclipse-page.html) - Still in development
 - [3D Game - Unity Project](./pages/unity-page.html) - Still in development
 - [Python Assessment - Python Project](./pages/python-page.html) - Still in development
 - [Automated Testing Framework Implementation](./pages/automation-page.html) - Still in development
@@ -100,6 +70,36 @@ Describe your project briefly and highlight its key features or technologies use
   - IREB
   - Issued : Jan 2017
   - Credential ID : MY-CPRE-FL-2017-00007
+
+## Skills
+
+<!--
+- List your core programming languages and technologies.
+- Mention any frameworks, libraries, or tools you're proficient in.
+- Highlight any relevant certifications or courses you've completed. 
+-->
+
+- Web Development
+- Programming Languages
+  - PHP
+  - Javascript
+  - VBA
+  - C#
+- Frameworks
+  - Laravel
+  - Codeigniter (CI)
+- Amazon Web Services (AWS)
+  - SQS
+  - Cloudwatch
+  - S3
+  - Lambda
+  - CodePipeline
+- DMS 
+  - MySQL
+  - MSSQL
+- Automation Testing
+  - Cypress
+  - Selenium WebDriver
 
 ## Contact
 
