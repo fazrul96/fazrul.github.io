@@ -3,6 +3,29 @@ layout: default
 title: Fazrul Romli - Software Developer
 ---
 
+<header>
+  <h1>Hello, I'm Fazrul Romli</h1>
+  <!-- Add any other content you want in the header -->
+</header>
+
+<!-- Add the following code to create a sidebar -->
+
+<aside>
+  <!-- Add the content for your sidebar -->
+  <nav>
+    <ul>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#experience">Experience</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#certification">Certification</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+</aside>
+
+<!-- Add the rest of your content below -->
+
 # Hello, I'm Fazrul Romli
 
 Highly skilled and innovative web design and development professional with 4+ years of experience across diverse industries. Demonstrated ability to deliver exceptional results by combining technical expertise with superior analytical thinking skills. A task-driven individual who excels at prioritizing tasks, identifying and resolving technical issues promptly, and ensuring timely project completion. Welcome to my portfolio page!
@@ -84,12 +107,12 @@ Describe your project briefly and highlight its key features or technologies use
 
 ## Certification
 
-- [Android Certified Application Developer:](http://androidatc.com/_transcript.php?action=transcript)
+- [Android Certified Application Developer](http://androidatc.com/_transcript.php?action=transcript)
   - Android ATC
   - Issued : Oct 2017
   - Credential ID : ATC1001761
 
-- [Certified Professional Requirements Engineer (CPRE-FL):](http://www.mstb.org/IREB.php)
+- [Certified Professional Requirements Engineer (CPRE-FL)](http://www.mstb.org/IREB.php)
   - IREB
   - Issued : Jan 2017
   - Credential ID : MY-CPRE-FL-2017-00007
