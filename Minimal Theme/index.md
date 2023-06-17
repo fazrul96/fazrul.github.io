@@ -50,9 +50,12 @@ Describe your project briefly and highlight its key features or technologies use
 
 ### Accenture Solutions Sdn. Bhd. - Business & Integration Arch Analyst (Dec 2022 - Present)
 
-- Telco Plan Development: Involved in the development and implementation of telco plans, including 5G offerings. Experienced in designing and building web portals or platforms for customers to purchase plans, manage their accounts, and access various services.
-- Customer Portal Development: Proficient in creating intuitive and user-friendly customer portals for seamless plan selection, device management, and plan customization. Skilled in front-end development using modern frameworks and integrating with back-end systems.
-- Plan Purchasing and Modification: Knowledgeable in implementing features that allow customers to select and purchase telco plans through an online portal. Experienced in integrating secure payment gateways and providing options for plan modifications, such as upgrading, downgrading, or changing plan features.
+- Telco Plan Development
+  - Involved in the development and implementation of telco plans, including 5G offerings. Experienced in designing and building web portals or platforms for customers to purchase plans, manage their accounts, and access various services.
+- Customer Portal Development
+  - Proficient in creating intuitive and user-friendly customer portals for seamless plan selection, device management, and plan customization. Skilled in front-end development using modern frameworks and integrating with back-end systems.
+- Plan Purchasing and Modification
+  - Knowledgeable in implementing features that allow customers to select and purchase telco plans through an online portal. Experienced in integrating secure payment gateways and providing options for plan modifications, such as upgrading, downgrading, or changing plan features.
 - Account Management and Billing
 
 ### The Lorry Online Sdn. Bhd. - Back End Developer (Nov 2020 - Nov 2022)
