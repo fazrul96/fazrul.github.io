@@ -9,6 +9,10 @@ Sorry, this page is still in the development stage. We are working hard to bring
 
 In the Python workspace, we are dedicated to enhancing our skills and knowledge in Python programming. We undertake various assessments and projects to improve our understanding and proficiency in the language.
 
+Repositories (Public) : [Python Projects](https://github.com/fazrul96/PycharmProjects)
+
 Thank you for your patience as we continue to work on this page. If you have any questions or would like to discuss Python-related topics, please feel free to contact us.
+
+### Screenshots
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)

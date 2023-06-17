@@ -7,6 +7,8 @@ title: Unity Development Projects
 
 In addition to my professional work, I also enjoy working on Unity projects during my free time. Here are a couple of projects I have developed:
 
+Repositories (Public) : [Unity Projects](https://github.com/fazrul96/UnityProjects)
+
 ### Aeroplane Game
 
 The Aeroplane Game is an exciting and challenging game where players control a virtual aircraft and navigate through various obstacles and levels. The game features immersive graphics, intuitive controls, and engaging gameplay mechanics. It showcases my skills in game development, including scene design, player movement, collision detection, and more.
@@ -18,5 +20,7 @@ The Lorry Game is a fun and addictive game where players take on the role of a t
 These Unity projects serve as a testament to my passion for game development and my ability to create enjoyable and immersive gaming experiences.
 
 If you have any questions or would like to know more about these projects, please feel free to reach out to me.
+
+### Screenshots
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)
