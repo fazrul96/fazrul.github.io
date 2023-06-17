@@ -45,6 +45,9 @@ Describe your project briefly and highlight its key features or technologies use
   - Cypress
   - Selenium WebDriver
 
+## Project
+[Link to another page](./pages/another-page.html).
+
 ## Experience
 <!-- Describe your responsibilities and contributions in this role, showcasing your accomplishments and key projects. -->
 
