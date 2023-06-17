@@ -3,29 +3,6 @@ layout: default
 title: Fazrul Romli - Software Developer
 ---
 
-<header>
-  <h1>Hello, I'm Fazrul Romli</h1>
-  <!-- Add any other content you want in the header -->
-</header>
-
-<!-- Add the following code to create a sidebar -->
-
-<aside>
-  <!-- Add the content for your sidebar -->
-  <nav>
-    <ul>
-      <li><a href="#projects">Projects</a></li>
-      <li><a href="#skills">Skills</a></li>
-      <li><a href="#experience">Experience</a></li>
-      <li><a href="#education">Education</a></li>
-      <li><a href="#certification">Certification</a></li>
-      <li><a href="#contact">Contact</a></li>
-    </ul>
-  </nav>
-</aside>
-
-<!-- Add the rest of your content below -->
-
 # Hello, I'm Fazrul Romli
 
 Highly skilled and innovative web design and development professional with 4+ years of experience across diverse industries. Demonstrated ability to deliver exceptional results by combining technical expertise with superior analytical thinking skills. A task-driven individual who excels at prioritizing tasks, identifying and resolving technical issues promptly, and ensuring timely project completion. Welcome to my portfolio page!
