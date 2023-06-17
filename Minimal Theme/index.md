@@ -1,123 +1,50 @@
 ---
 layout: default
+title: Your Name - Software Developer
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Hello, I'm Your Name
 
-[Link to another page](./another-page.html).
+I'm a passionate software developer with expertise in [list your key skills or technologies]. Welcome to my portfolio page!
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Project 1
 
-# Header 1
+Describe your project briefly and highlight its key features or technologies used. You can also include a link to the project repository or live demo.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Project 2
 
-## Header 2
+Describe your project briefly and highlight its key features or technologies used. You can also include a link to the project repository or live demo.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Skills
 
-### Header 3
+- List your core programming languages and technologies.
+- Mention any frameworks, libraries, or tools you're proficient in.
+- Highlight any relevant certifications or courses you've completed.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Experience
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+### Company Name - Software Developer (Month Year - Present)
 
-#### Header 4
+Describe your responsibilities and contributions in this role, showcasing your accomplishments and key projects.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+### Previous Experience
 
-##### Header 5
+- Company Name - Position (Month Year - Month Year)
+  - Briefly describe your responsibilities and notable achievements.
+- Company Name - Position (Month Year - Month Year)
+  - Briefly describe your responsibilities and notable achievements.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+## Education
 
-###### Header 6
+- Degree, Major - University Name (Year)
+- Relevant certifications or courses
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+## Contact
 
-### There's a horizontal rule below this.
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [Your Name](https://www.linkedin.com/in/yourname)
+- GitHub: [Your GitHub Username](https://github.com/yourusername)
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Feel free to reach out to discuss any collaboration or opportunity. I'm looking forward to connecting with you!
