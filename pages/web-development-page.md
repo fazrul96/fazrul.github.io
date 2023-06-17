@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Automated Testing Framework Implementation
+title: Web Development - Laravel Project Page
 ---
 
-## Welcome to automation workspace
+## Welcome to laravel workspace
 
 Sorry this page is still in development stage, will update once ready.
 Thanks

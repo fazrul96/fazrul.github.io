@@ -46,7 +46,11 @@ Describe your project briefly and highlight its key features or technologies use
   - Selenium WebDriver
 
 ## Project
-[Link to another page](./pages/another-page.html).
+- [Web Development - Laravel Project](./pages/web-development-page.html) - Still in development
+- [University Collection - Eclipse Project](./pages/eclipse-page.html) - Still in development
+- [3D Game - Unity Project](./pages/unity-page.html) - Still in development
+- [Python Assessment - Python Project](./pages/python-page.html) - Still in development
+- [Automated Testing Framework Implementation](./pages/automation-page.html) - Still in development
 
 ## Experience
 <!-- Describe your responsibilities and contributions in this role, showcasing your accomplishments and key projects. -->

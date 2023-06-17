@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Automated Testing Framework Implementation
+title: University Collection - Eclipse Project Page
 ---
 
-## Welcome to automation workspace
+## Welcome to eclipse workspace
 
 Sorry this page is still in development stage, will update once ready.
 Thanks

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Automated Testing Framework Implementation
+title: End-to-End Testing Framework Implementation - Automation Page
 ---
 
 ## Welcome to automation workspace

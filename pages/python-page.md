@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Automated Testing Framework Implementation
+title: Python Assessment - Python Project Page
 ---
 
-## Welcome to automation workspace
+## Welcome to python workspace
 
 Sorry this page is still in development stage, will update once ready.
 Thanks
