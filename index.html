@@ -6,6 +6,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="stylesheet" href="assets/css/main.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
+  <script>
+    $(function() {
+      // Load the navbar file using jQuery
+      $('#navbar').load('navbar.html');
+    });
+  </script>
 </head>
 <style>
   /* FontAwesome for working BootSnippet :> */
@@ -151,68 +157,7 @@
   .carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
 </style>
 <body>
-  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
-    <div class="container">
-      <!-- Collapse -->
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-              aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <!-- Links -->
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
-        <!-- Left -->
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home
-              <span class="sr-only">(current)</span>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#portfolio">Portfolio</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#project">Project</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#experience">Experience</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#education">Education</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#certification">Certification</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#skills">Skills</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#contact">Contact</a>
-          </li>
-        </ul>
-
-        <!-- Right -->
-        <ul class="navbar-nav nav-flex-icons">
-          <li class="nav-item">
-            <a href="https://www.linkedin.com/in/fazrul-romli-79138415b/" class="nav-link" target="_blank">
-              <i class="fa fa-linkedin"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="mailto:mfazrul07@gmail.com" class="nav-link" target="_blank">
-              <i class="fa fa-envelope"></i>
-            </a>
-          </li>
-          <li class="nav-item">
-            <a href="http://github.com/fazrul96/" class="nav-link border border-light rounded"
-              target="_blank">
-              <i class="fa fa-github mr-2"></i>GitHub
-            </a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+  <div id="navbar"></div>
   <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
     <!--Indicators-->
     <ol class="carousel-indicators">
@@ -380,80 +325,6 @@
           </div>
         </div>
 
-      </section>
-
-      <hr class="mb-5">
-      <section id="experience">
-        <h1 class="text-center" style="font-weight: bold; font-size: 100">Experience</h1>
-        <div class="row">
-          <article class="col-4 col-xs-12 work-item">
-            <h3>Accenture Solutions Sdn. Bhd. - Business & Integration Arch Analyst (Dec 2022 - Present)</h3>
-            <ul>
-              <li>
-                Telco Plan Development
-                <ul>
-                  <li>Involved in the development and implementation of telco plans, including 5G offerings. Experienced in designing and building web portals or platforms for customers to purchase plans, manage their accounts, and access various services.</li>
-                </ul>
-              </li>
-              <li>
-                Customer Portal Development
-                <ul>
-                  <li>Proficient in creating intuitive and user-friendly customer portals for seamless plan selection, device management, and plan customization. Skilled in front-end development using modern frameworks and integrating with back-end systems.</li>
-                </ul>
-              </li>
-              <li>
-                Plan Purchasing and Modification
-                <ul>
-                  <li>Knowledgeable in implementing features that allow customers to select and purchase telco plans through an online portal. Experienced in integrating secure payment gateways and providing options for plan modifications, such as upgrading, downgrading, or changing plan features.</li>
-                </ul>
-              </li>
-              <li>
-                Account Management and Billing
-              </li>
-            </ul>
-          
-            <h3>The Lorry Online Sdn. Bhd. - Back End Developer (Nov 2020 - Nov 2022)</h3>
-            <ul>
-              <li>
-                Developed and maintained new features for multiple products across various platforms using PHP, ensuring their seamless integration and functionality.
-                <ul>
-                  <li>Reviewed and refactored code to support multi-country operations, resulting in improved performance and product quality. Implemented best practices and industry standards to enhance code stability, scalability, and maintainability.</li>
-                </ul>
-              </li>
-              <li>
-                Implemented AWS services such as Lambda, SQS, CloudWatch, S3, and CodePipeline, leveraging their capabilities to enhance system performance, scalability, and reliability.
-              </li>
-              <li>
-                Integration of payment gateways such as TnG and Razerpay, facilitating seamless and secure transactions for users.
-              </li>
-              <li>
-                Implemented automated testing frameworks like PHPUnit and Cypress for backend code, ensuring high-quality standards and minimizing the occurrence of bugs and issues before deploying changes to production.
-              </li>
-              <li>
-                Proactively resolved bugs and issues, documenting processes using tools such as Postman and Swagger. Enhance query optimization to improve overall performance, reliability, and efficiency of the software applications.
-              </li>
-            </ul>
-          
-            <h3>BizAid Technologies Sdn. Bhd. - Software Programmer (Apr 2019 - Oct 2020)</h3>
-            <ul>
-              <li>
-                Managed and provided comprehensive support services, including bug fixes, software patches, enhancements, and customizations. Maintained up-to-date documentation and reports in accordance with SSM format, ensuring accurate and accessible information for effective service management.
-              </li>
-              <li>
-                Led a team of 3 interns and 1 developer in the development of two extension features and the maintenance of the OCR & NLP financial statement module. Collaborated closely with clients, enabling them to access their dedicated portals and utilize resources efficiently.
-              </li>
-              <li>
-                Oversaw and maintained Selenium testing, implementing automation to improve processing time and minimize human error. Played a key role in integration testing, ensuring the seamless integration of various system components.
-              </li>
-              <li>
-                Implemented REST API integrations, such as iMacros and Textract, resulting in increased monthly revenue and improved product quality. Leveraged these integrations to enhance system capabilities and provide valuable features to clients.
-              </li>
-              <li>
-                Assumed the role of an internal technician, managing IT-related issues within the organization. This involved tasks such as building, repairing, and formatting computers, installing tools and software for other departments, and managing the network infrastructure.
-              </li>
-            </ul>
-          </article>
-        </div>
       </section>
 
       <hr class="mb-5">
@@ -650,6 +521,80 @@
           </div>
         </div>
       </section>
+
+      <hr class="mb-5">
+      <section id="experience">
+        <h1 class="text-center" style="font-weight: bold; font-size: 100">Experience</h1>
+        <div class="row">
+          <article class="col-4 col-xs-12 work-item">
+            <h3>Accenture Solutions Sdn. Bhd. - Business & Integration Arch Analyst (Dec 2022 - Present)</h3>
+            <ul>
+              <li>
+                Telco Plan Development
+                <ul>
+                  <li>Involved in the development and implementation of telco plans, including 5G offerings. Experienced in designing and building web portals or platforms for customers to purchase plans, manage their accounts, and access various services.</li>
+                </ul>
+              </li>
+              <li>
+                Customer Portal Development
+                <ul>
+                  <li>Proficient in creating intuitive and user-friendly customer portals for seamless plan selection, device management, and plan customization. Skilled in front-end development using modern frameworks and integrating with back-end systems.</li>
+                </ul>
+              </li>
+              <li>
+                Plan Purchasing and Modification
+                <ul>
+                  <li>Knowledgeable in implementing features that allow customers to select and purchase telco plans through an online portal. Experienced in integrating secure payment gateways and providing options for plan modifications, such as upgrading, downgrading, or changing plan features.</li>
+                </ul>
+              </li>
+              <li>
+                Account Management and Billing
+              </li>
+            </ul>
+          
+            <h3>The Lorry Online Sdn. Bhd. - Back End Developer (Nov 2020 - Nov 2022)</h3>
+            <ul>
+              <li>
+                Developed and maintained new features for multiple products across various platforms using PHP, ensuring their seamless integration and functionality.
+                <ul>
+                  <li>Reviewed and refactored code to support multi-country operations, resulting in improved performance and product quality. Implemented best practices and industry standards to enhance code stability, scalability, and maintainability.</li>
+                </ul>
+              </li>
+              <li>
+                Implemented AWS services such as Lambda, SQS, CloudWatch, S3, and CodePipeline, leveraging their capabilities to enhance system performance, scalability, and reliability.
+              </li>
+              <li>
+                Integration of payment gateways such as TnG and Razerpay, facilitating seamless and secure transactions for users.
+              </li>
+              <li>
+                Implemented automated testing frameworks like PHPUnit and Cypress for backend code, ensuring high-quality standards and minimizing the occurrence of bugs and issues before deploying changes to production.
+              </li>
+              <li>
+                Proactively resolved bugs and issues, documenting processes using tools such as Postman and Swagger. Enhance query optimization to improve overall performance, reliability, and efficiency of the software applications.
+              </li>
+            </ul>
+          
+            <h3>BizAid Technologies Sdn. Bhd. - Software Programmer (Apr 2019 - Oct 2020)</h3>
+            <ul>
+              <li>
+                Managed and provided comprehensive support services, including bug fixes, software patches, enhancements, and customizations. Maintained up-to-date documentation and reports in accordance with SSM format, ensuring accurate and accessible information for effective service management.
+              </li>
+              <li>
+                Led a team of 3 interns and 1 developer in the development of two extension features and the maintenance of the OCR & NLP financial statement module. Collaborated closely with clients, enabling them to access their dedicated portals and utilize resources efficiently.
+              </li>
+              <li>
+                Oversaw and maintained Selenium testing, implementing automation to improve processing time and minimize human error. Played a key role in integration testing, ensuring the seamless integration of various system components.
+              </li>
+              <li>
+                Implemented REST API integrations, such as iMacros and Textract, resulting in increased monthly revenue and improved product quality. Leveraged these integrations to enhance system capabilities and provide valuable features to clients.
+              </li>
+              <li>
+                Assumed the role of an internal technician, managing IT-related issues within the organization. This involved tasks such as building, repairing, and formatting computers, installing tools and software for other departments, and managing the network infrastructure.
+              </li>
+            </ul>
+          </article>
+        </div>
+      </section>  
       
       <hr class="mb-5">
       <section id="education">
@@ -829,7 +774,7 @@
       </section>
 
       <hr class="mb-5">
-      <section id="skill">
+      <section id="skills">
         <h1 class="text-center" style="font-weight: bold; font-size: 100">Knowledge & Tool</h1>
         <p>This is some tool or knowledge that I have been used for my previous project:-</p>
 
@@ -1357,6 +1302,7 @@
     </div>
   </main>
 </body>
+<!-- <p>Feel free to reach out to discuss any collaboration or opportunity. I'm looking forward to connecting with you!</p> -->
 <footer class="page-footer text-center font-small mt-4 wow fadeIn">
   <hr class="my-4">
   <div class="inner">
