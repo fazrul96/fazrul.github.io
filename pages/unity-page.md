@@ -23,7 +23,7 @@ If you have any questions or would like to know more about these projects, pleas
 
 ### Screenshots
 
-![Aeroplane Game Image](/assets/img/aeroplane-game.jpg)
-![Truck Crash Game Image](/assets/img/truck-crash-game.jpg)
+![Aeroplane Game Image](/fazrul.github.io/assets/img/aeroplane-game.png)
+![Truck Crash Game Image](/fazrul.github.io/assets/img/truck-crash-game.png)
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)
