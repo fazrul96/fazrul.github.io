@@ -23,12 +23,7 @@ If you have any questions or would like to know more about these projects, pleas
 
 ### Screenshots
 
-{% if site.aeroplane %}
-    <img src="{{site.aeroplane | relative_url}}" alt="Aeroplane Game Image" />
-{% endif %}
-
-{% if site.truck_crash %}
-    <img src="{{site.truck_crash | relative_url}}" alt="Truck Crash Game Image" />
-{% endif %}
+![Aeroplane Game Image](/assets/img/aeroplane-game.jpg)
+![Truck Crash Game Image](/assets/img/truck-crash-game.jpg)
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)

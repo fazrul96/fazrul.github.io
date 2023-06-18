@@ -27,12 +27,7 @@ If you have any questions or would like to know more about these projects, pleas
 
 ### Screenshots
 
-{% if site.sliding %}
-    <img src="{{site.sliding | relative_url}}" alt="Sliding Game Image" />
-{% endif %}
-
-{% if site.td %}
-    <img src="{{site.td | relative_url}}" alt="Tower Defense Game Image" />
-{% endif %}
+![Sliding Game Image](/assets/img/sliding-game.jpg)
+![Tower Defense Game Image](/assets/img/sliding-game.jpg)
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)
