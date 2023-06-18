@@ -5,7 +5,9 @@ title: Fazrul Romli - Software Developer
 
 # Hello, I'm Fazrul Romli
 
-Highly skilled and innovative web design and development professional with 4+ years of experience across diverse industries. Demonstrated ability to deliver exceptional results by combining technical expertise with superior analytical thinking skills. A task-driven individual who excels at prioritizing tasks, identifying and resolving technical issues promptly, and ensuring timely project completion. Welcome to my portfolio page!
+Highly skilled and innovative web design and development professional with 4+ years of experience across diverse industries. Demonstrated ability to deliver exceptional results by combining technical expertise with superior analytical thinking skills. A task-driven individual who excels at prioritizing tasks, identifying and resolving technical issues promptly, and ensuring timely project completion. 
+
+Welcome to my portfolio page!
 
 <!-- 
 ## Projects

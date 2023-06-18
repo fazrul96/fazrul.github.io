@@ -27,4 +27,7 @@ If you have any questions or would like to know more about these projects, pleas
 
 ### Screenshots
 
+- <img src="/assets/img/sliding-game.jpg" alt="sliding game image">
+- <img src="/assets/img/td-game.jpg" alt="tower defense game image">
+
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)
