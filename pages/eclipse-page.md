@@ -28,6 +28,6 @@ If you have any questions or would like to know more about these projects, pleas
 ### Screenshots
 
 ![Sliding Game Image](/fazrul.github.io/assets/img/sliding-game.png)
-![Tower Defense Game Image](/fazrul.github.io/assets/img/sliding-game.png)
+![Tower Defense Game Image](/fazrul.github.io/assets/img/td-game.png)
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)

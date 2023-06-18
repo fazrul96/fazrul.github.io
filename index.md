@@ -24,6 +24,11 @@ Describe your project briefly and highlight its key features or technologies use
 - [Python Assessment - Python Project](./pages/python-page.html) - Still in development
 - [Automated Testing Framework Implementation](./pages/automation-page.html) - Still in development
 
+<video controls>
+  <source src="/fazrul.github.io/assets/video/Project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Experience
 <!-- Describe your responsibilities and contributions in this role, showcasing your accomplishments and key projects. -->
 
