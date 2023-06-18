@@ -6,12 +6,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
   <link rel="stylesheet" href="assets/css/main.css" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" >
-  <script>
-    $(function() {
-      // Load the navbar file using jQuery
-      $('#navbar').load('navbar.html');
-    });
-  </script>
 </head>
 <style>
   /* FontAwesome for working BootSnippet :> */
@@ -157,7 +151,68 @@
   .carousel,.carousel .carousel-inner,.carousel .carousel-inner .active,.carousel .carousel-inner .carousel-item,.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
 </style>
 <body>
-  <div id="navbar"></div>
+  <nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
+      <div class="container">
+          <!-- Collapse -->
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                  aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+          </button>
+          <!-- Links -->
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+          <!-- Left -->
+          <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+              <a class="nav-link" href="#">Home
+                  <span class="sr-only">(current)</span>
+              </a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#portfolio">Portfolio</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#project">Project</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#experience">Experience</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#education">Education</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#certification">Certification</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#skills">Skills</a>
+              </li>
+              <li class="nav-item">
+              <a class="nav-link" href="#contact">Contact</a>
+              </li>
+          </ul>
+
+          <!-- Right -->
+          <ul class="navbar-nav nav-flex-icons">
+              <li class="nav-item">
+              <a href="https://www.linkedin.com/in/fazrul-romli-79138415b/" class="nav-link" target="_blank">
+                  <i class="fa fa-linkedin"></i>
+              </a>
+              </li>
+              <li class="nav-item">
+              <a href="mailto:mfazrul07@gmail.com" class="nav-link" target="_blank">
+                  <i class="fa fa-envelope"></i>
+              </a>
+              </li>
+              <li class="nav-item">
+              <a href="http://github.com/fazrul96/" class="nav-link border border-light rounded"
+                  target="_blank">
+                  <i class="fa fa-github mr-2"></i>GitHub
+              </a>
+              </li>
+          </ul>
+          </div>
+      </div>
+  </nav>
   <div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
     <!--Indicators-->
     <ol class="carousel-indicators">
