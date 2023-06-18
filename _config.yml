@@ -4,3 +4,8 @@ description: Business & Integration Arch Analyst | Php Developer
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+aeroplane: /assets/img/aeroplane-game.png
+sliding: /assets/img/sliding-game.jpg
+throw_food: /assets/img/throw-food-game.jpg
+truck_crash: /assets/img/truck-crash-game.jpg
