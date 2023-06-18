@@ -25,10 +25,10 @@ Describe your project briefly and highlight its key features or technologies use
 - [Automated Testing Framework Implementation](./pages/automation-page.html) - Still in development
 
 ### Preview
-- <video controls width="480" height="270" loop>
-    <source src="/fazrul.github.io/assets/video/Project.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<video controls width="480" height="270" loop>
+  <source src="/fazrul.github.io/assets/video/Project.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Experience
 <!-- Describe your responsibilities and contributions in this role, showcasing your accomplishments and key projects. -->

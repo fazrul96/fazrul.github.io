@@ -23,8 +23,8 @@ If you have any questions or would like to know more about these projects, pleas
 
 ### Screenshots
 
-- ![Aeroplane Game Image](/fazrul.github.io/assets/img/aeroplane-game.png)
-- ![Truck Crash Game Image](/fazrul.github.io/assets/img/truck-crash-game.png)
-- ![Throw Food Game Image](/fazrul.github.io/assets/img/throw-food-game.png)
+![Aeroplane Game Image](/fazrul.github.io/assets/img/aeroplane-game.png)
+![Truck Crash Game Image](/fazrul.github.io/assets/img/truck-crash-game.png)
+![Throw Food Game Image](/fazrul.github.io/assets/img/throw-food-game.png)
 
 [Go back to the homepage](https://fazrul96.github.io/fazrul.github.io/)
