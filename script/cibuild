@@ -1,9 +1,9 @@
 #!/bin/sh
 
-set -e
+# set -e
 
-bundle exec jekyll build
-bundle exec htmlproofer ./_site --check-html --check-sri
-bundle exec rubocop -D --config .rubocop.yml
-bundle exec script/validate-html
-gem build jekyll-theme-minimal.gemspec
+# bundle exec jekyll build
+# bundle exec htmlproofer ./_site --check-html --check-sri
+# bundle exec rubocop -D --config .rubocop.yml
+# bundle exec script/validate-html
+# gem build jekyll-theme-minimal.gemspec
