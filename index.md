@@ -87,27 +87,62 @@ Describe your project briefly and highlight its key features or technologies use
 - Highlight any relevant certifications or courses you've completed. 
 -->
 
-- Web Development
-- Programming Languages
-  - PHP
-  - Javascript
-  - VBA
-  - C#
-- Frameworks
-  - Laravel
-  - Codeigniter (CI)
-- Amazon Web Services (AWS)
-  - SQS
-  - Cloudwatch
-  - S3
-  - Lambda
-  - CodePipeline
-- DMS 
-  - MySQL
-  - MSSQL
-- Automation Testing
-  - Cypress
-  - Selenium WebDriver
+<div class="skills-card">
+  <div class="skill">
+    <img src="/assets/img/sliding-game.png" alt="Web Development Icon" class="skill-icon">
+    <h3 class="skill-title">Web Development</h3>
+  </div>
+  
+  <div class="skill">
+    <img src="/assets/icons/programming-languages.png" alt="Programming Languages Icon" class="skill-icon">
+    <h3 class="skill-title">Programming Languages</h3>
+    <ul>
+      <li>PHP</li>
+      <li>Javascript</li>
+      <li>VBA</li>
+      <li>C#</li>
+    </ul>
+  </div>
+  
+  <div class="skill">
+    <img src="/assets/icons/frameworks.png" alt="Frameworks Icon" class="skill-icon">
+    <h3 class="skill-title">Frameworks</h3>
+    <ul>
+      <li>Laravel</li>
+      <li>Codeigniter (CI)</li>
+    </ul>
+  </div>
+  
+  <div class="skill">
+    <img src="/assets/icons/aws.png" alt="AWS Icon" class="skill-icon">
+    <h3 class="skill-title">Amazon Web Services (AWS)</h3>
+    <ul>
+      <li>SQS</li>
+      <li>Cloudwatch</li>
+      <li>S3</li>
+      <li>Lambda</li>
+      <li>CodePipeline</li>
+    </ul>
+  </div>
+  
+  <div class="skill">
+    <img src="/assets/icons/dms.png" alt="DMS Icon" class="skill-icon">
+    <h3 class="skill-title">DMS</h3>
+    <ul>
+      <li>MySQL</li>
+      <li>MSSQL</li>
+    </ul>
+  </div>
+  
+  <div class="skill">
+    <img src="/assets/icons/automation-testing.png" alt="Automation Testing Icon" class="skill-icon">
+    <h3 class="skill-title">Automation Testing</h3>
+    <ul>
+      <li>Cypress</li>
+      <li>Selenium WebDriver</li>
+    </ul>
+  </div>
+</div>
 
 ## Contact
 
